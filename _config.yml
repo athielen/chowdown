@@ -1,13 +1,11 @@
 # Site settings
-title: Chowdown
-email: your-email@domain.com
-description: The plain text recipe database for hackers
-baseurl: "https://chowdown.io"
+title: TechsMarthaStewart
+email: hello@anthonythielen.com
+description: Recipes from Anthony Thielen
+
 language: "en"
 lang_direction: "ltr"
 color: "#007FFF"
-twitter_username: clarklab
-github_username:  clarklab
 
 # Build settings
 markdown: kramdown

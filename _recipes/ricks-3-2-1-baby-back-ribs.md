@@ -7,7 +7,7 @@ tags: main, mains, dinner, ribs, rib rub, bbq, barbeque, smoker, smoking
 
 ingredients:
 - 1 baby back rib
-- Rick'a Naked Rib Rub
+- Rick's [Naked Rib Rub](/recipes/ricks-naked-rib-rub.html) (or your preferred rub)
 - 1/4 cup **per rib** of cheap yellow mustard (**see notes**)
 - Apple juice
 
@@ -33,5 +33,6 @@ This is an edited version of "Jeff's Naked Rib Rub" and 2-2-1 technique from aro
 
 
 **Notes**
-- The yellow mustard acts as a sticking agent for the rub and loses its mustard flavor during the smoking process.
-- 
+* The yellow mustard acts as a sticking agent for the rub and loses its mustard flavor during the smoking process.
+
+**Tools**: Smoker

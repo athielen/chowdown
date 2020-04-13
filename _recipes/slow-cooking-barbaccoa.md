@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Slow Cooking Barbaccoa"
-image: crockpot-buffalo-chicken.jpg
+image:
 tags: main, mains, barbaccoa, mexican, slow cooker, slow cooking, slow
 
 ingredients:

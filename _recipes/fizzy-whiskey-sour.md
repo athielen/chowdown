@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Fizzy Whiskey Sour"
 image:
-tags: drink, cocktail, whiskey, bourbon, lemon, honey, alcohol
+tags: drink, cocktail, cocktails, whiskey, bourbon, lemon, honey, alcohol
 
 ingredients:
 - 2 ounces bourbon

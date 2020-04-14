@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Thielen Pico de Gallo"
 image: 
-tags: side, sides, mexican, snack, chips, salsa
+tags: side, sides, mexican, snack, chips, salsa, tomato
 
 ingredients:
 - 1 1/2 c Roma tomatoes, chopped (seeds removed)
@@ -19,4 +19,4 @@ directions:
 
 ---
 
-How a Thielen makes pico de gallo.
+How a Thielen makes Pico de Gallo.

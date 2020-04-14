@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Thielen Margarita"
 image:
-tags: drink, cocktail, tequila, cointreau, lime, alcohol
+tags: drink, cocktail, tequila, cointreau, lime, alcohol, cocktails
 
 ingredients:
 - 2 oz. blanco tequila

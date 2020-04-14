@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Rick's Naked Rib Rub"
 image:
-tags: rub, rib rub, ribs, bbq
+tags: rub, rib rub, ribs, bbq, spice, spices, spice mixture, mixture
 
 ingredients:
 - 1 cup dark brown sugar
@@ -21,5 +21,4 @@ directions:
 - Store dry and airtight until use.
 
 ---
-
 This recipe makes about 2 cups and is enough rub for ~2 spare ribs.

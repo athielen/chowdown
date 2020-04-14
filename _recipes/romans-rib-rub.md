@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Roman's Rib Rub"
 image:
-tags: rub, rib rub, ribs, bbq
+tags: rub, rib rub, ribs, bbq, spice, spices, spice mixture, mixture
 
 ingredients:
 - 1 tbsp kosher salt
@@ -22,5 +22,4 @@ directions:
 - Store in cool, dry place
 
 ---
-
 This rib rub is for 1 to 1 1/2 rack of ribs.

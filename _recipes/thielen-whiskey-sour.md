@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Thielen Whiskey Sour"
 image: 
-tags: drink, cocktail, whiskey, bourbon, lemon, honey, alcohol
+tags: drink, cocktail, whiskey, bourbon, lemon, honey, alcohol, cocktails
 
 ingredients:
 - 2 ounces bourbon

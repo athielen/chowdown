@@ -1,9 +1,9 @@
 ---
 
 layout: recipe
-title:  "Thielen Spaghetti Sauce"
+title:  "Thielen Canned Spaghetti Sauce"
 image:
-tags: sauces, canning, italian, red sauce
+tags: sauces, canning, italian, red sauce, tomatoes
 
 ingredients:
 - 1 white onion
@@ -33,9 +33,3 @@ directions:
 - Label and store in dark place.
 
 ---
-
-This is a simple slow cooking barbaccoa recipe using cheap cuts of meat. Because of the simplicity, there is alot of room for improvistation in the adobo sauce to adjust acidity, spices, heat and aromatics.
-
-*Note: Recipe calls for tequila. If you can't use tequila, substitue in apple cider vinegar. It will have almost the same desired effect.*
-
-**Tool**s: Blender (or food processor), slow cooker.

@@ -3,22 +3,23 @@
 layout: recipe
 title:  "Thielen Salsa (or Picante Sauce)"
 image: 
-tags: side, sides, mexican, snack, chips, salsa, canning
+tags: side, sides, mexican, snack, chips, salsa, canning, jalapeno
 
 ingredients:
 - 10 to 12 large tomatoes
 - 1 white onion (chopped)
 - 1 red or yerllow bell pepper (chopped)
-- 1 sack of garlic (2 or 3 parts)
+- 2-3 garlic gloves
 - jalapeño peppers (see notes)
 - 1/3 cup of vinegar
 - 1/2 tsp oregano
-- 1 tbsp canning saly
+- 1 tbsp canning salt
 
 directions:
-- Blanch, peel and section tomatoes. Save tomato juice.
-- Juice tomateos & all ingredients.
-- Cook 3 to 4 hours.
+- Blanch, peel and section tomatoes.
+- Tomateos & all other ingredients into large pot on stove.
+- Simmer 3 to 4 hours til liquid is reduced.
+
 ---
 
 Makes 3 to 4 quarts depedning on size of tomatoes.

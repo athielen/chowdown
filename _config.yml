@@ -10,7 +10,7 @@ color: "#007FFF"
 # Build settings
 markdown: kramdown
 
-permalink: /:title
+permalink: /:title:output_ext
 
 collections:
   components:

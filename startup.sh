@@ -1,1 +1,1 @@
-jekyll build && jekyll serve --watch --config _config.yml
+jekyll serve --watch --config _config.yml

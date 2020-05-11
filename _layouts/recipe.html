@@ -25,9 +25,24 @@ layout: default
   </header>
 
   <div class="px2 mt3 clearfix">
-    <div class="sm-col-8 mx-auto" itemprop="description">{{page.content}}</div>
-  </div>
+    <div class="sm-col-8 mx-auto" itemprop="description">{{page.content}}
 
+      {% if page.servings %}
+      <br>
+      Servings: {{page.servings}}
+      {% endif %}
+      {% if page.time %}
+      <br>
+      Estimated Time: {{page.time}}
+      {% endif %}
+      {% if page.equipment %}
+      <br>
+      Equipment: {{page.equipment}}
+      {% endif %}
+
+    </div>
+  </div>
+  
   <div class="mt3 clearfix">
     <div class="sm-col sm-col-12 lg-col-12">
       {% include nutritional-information.html %}

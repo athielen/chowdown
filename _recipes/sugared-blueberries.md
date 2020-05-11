@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title:  "sugared blueberries"
+title:  "Sugared Blueberries"
 image:
 tags: desert, topping
 
